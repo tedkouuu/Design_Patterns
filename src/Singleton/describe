@@ -3,10 +3,3 @@
      It is named after the singleton set, which is defined to be a set containing one element
 
      or Singleton is like a single resource which is being shared among multiple users.
-
-     *******
-     Spring  example:
-
-     Singleton is the default scope for a Bean, the one that will be used if nothing else is indicated.
-     This scope implies that Spring container will create an only shared instance of the class designated by this bean,
-     so each time the Bean is required the same object will be injected.
